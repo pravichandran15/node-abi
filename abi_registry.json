@@ -368,7 +368,7 @@
     "future": false,
     "lts": false,
     "runtime": "electron",
-    "target": "35.0.0-alpha.1"
+    "target": "35.0.1"
   },
   {
     "abi": "135",
